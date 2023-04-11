@@ -30,6 +30,8 @@ html {
 
 body {
   background: var(--clr-cream);
+  display: grid;
+  place-items: center;
 }
 
 .container {
@@ -92,7 +94,7 @@ body {
   align-items: center;
 }
 .content span {
-  color: black;
+  color: #00000;
   text-decoration: line-through;
   font-size: .4em;
   margin-left: 1.5rem;
@@ -101,7 +103,7 @@ body {
 
 .cart {
   background: var(--clr-dark-cyan);
-  color: white;
+  color: #fffff;
   height: 3.7rem;
   border-radius: 0.5rem;
 
