@@ -51,7 +51,7 @@ body {
 }
 
 .content {
-  background: white;
+  background: #fffff;
 
   padding: 2.2rem;
   border-radius: 0 1rem 1rem 0;
@@ -128,7 +128,7 @@ body {
   font-size: 1.05rem;
 }
 
-@media (max-width: 376px) {
+@media screen and (max-width: 375px) {
   .image-desktop {
     display: none;
   }
