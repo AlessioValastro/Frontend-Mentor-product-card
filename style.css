@@ -51,7 +51,7 @@ body {
 }
 
 .content {
-  background: #fffff;
+  background: #ffff;
 
   padding: 2.2rem;
   border-radius: 0 1rem 1rem 0;
@@ -94,7 +94,7 @@ body {
   align-items: center;
 }
 .content span {
-  color: #00000;
+  color: #0000;
   text-decoration: line-through;
   font-size: .4em;
   margin-left: 1.5rem;
@@ -103,7 +103,7 @@ body {
 
 .cart {
   background: var(--clr-dark-cyan);
-  color: #fffff;
+  color: #ffff;
   height: 3.7rem;
   border-radius: 0.5rem;
 
